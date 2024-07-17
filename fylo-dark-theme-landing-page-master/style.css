@@ -1,0 +1,37 @@
+.attribution { font-size: 11px; text-align: center; }
+    .attribution a { color: hsl(228, 45%, 44%); }
+body{
+    background-color: #16161d;
+}
+.nav-link{
+    color: white;
+}
+
+.flex-container{
+    display: flex;
+    justify-content: center;
+}
+.text-container{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    height: 100vh;
+}
+.nav-link:hover{
+    text-decoration: underline;
+    color: whitesmoke;
+}
+p{
+    color: white;
+}
+#main-text{
+    color: white;
+}
+.text{
+    color:white;
+}
+.btn{
+    background-color: rgb(135, 206, 235);
+    border-radius: 22px;
+    width: 250px;
+}
